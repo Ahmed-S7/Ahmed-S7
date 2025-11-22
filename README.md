@@ -87,10 +87,6 @@ A mock library database system with full working functionalities. Utilizes Pytho
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![Gunicorn](https://img.shields.io/badge/Gunicorn-499848?style=for-the-badge&logo=gunicorn&logoColor=white)
 
-## GitHub Stats
-
-![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ahmed-S7&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)
-
 ## Skills & Expertise
 
 ### Backend Development
