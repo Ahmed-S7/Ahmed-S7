@@ -6,7 +6,7 @@
 
 ## About Me
 
-I'm a **fourth-year Computing Science student at The University of Alberta**, interested in full-stack development with expertise in building modern web applications and mobile apps. I enjoy creating scalable solutions, working with distributed systems, and implementing best practices in software development.
+I'm a **fourth-year Computing Science student at The University of Alberta**,and I am interested in full-stack development with expertise in building modern web applications and mobile apps. I enjoy creating scalable solutions, working with distributed systems, and implementing best practices in software development.
 
 ## Featured Projects
 
@@ -90,8 +90,6 @@ A mock library database system with full working functionalities. Utilizes Pytho
 ## GitHub Stats
 
 ![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ahmed-S7&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-S7&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)
 
 ## Skills & Expertise
 
