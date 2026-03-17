@@ -5,7 +5,7 @@
 
 ## About Me
 
-I'm a **fourth-year Computing Science student at The University of Alberta**,and I am interested in full-stack development with expertise in building modern web applications and mobile apps. I enjoy creating scalable solutions, working with distributed systems, and implementing best practices in software development.
+I'm a **recent graduate from the Computing Science Program at The University of Alberta**,and I am interested in full-stack development with expertise in building modern web applications and mobile apps. I enjoy creating scalable solutions, working with distributed systems, and implementing best practices in software development.
 
 ## Featured Projects
 
