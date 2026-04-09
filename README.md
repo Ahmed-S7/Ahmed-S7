@@ -1,140 +1,129 @@
 # Hello, I'm Ahmed Shittu
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ahmed-S7)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmedshittu02@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
 
 ## About Me
 
-I'm a **recent graduate from the Computing Science Program at The University of Alberta**, and I am interested in full-stack development with expertise in building modern web applications and mobile apps. I enjoy creating scalable solutions, working with distributed systems, and implementing best practices in software development.
+Junior Software Developer with 2+ years of experience building and maintaining production web applications, plus 4+ years of Python experience across academic and professional projects. I graduated from the University of Alberta (BSc Computer Science, Minor in Psychology) and focus on full-stack development with strong backend foundations.
+
+I enjoy building scalable, maintainable systems and have hands-on experience with REST API development, testing, and technical documentation. I actively use AI-assisted development tools (Cursor, Claude, Gemini, ChatGPT) to accelerate coding, debugging, testing, and documentation workflows.
+
+---
+
+## Professional Highlights
+
+- Built and shipped features for a language-learning platform serving **1,400+ users**
+- Designed and implemented **60+ REST API endpoints** in a distributed social platform
+- Built and maintained **500+ tests across 53 files** with **80%+ code coverage**
+- Migrated UI test infrastructure from **Playwright to Selenium**
+- Assisted in incorporating bilingual (French/English) support across a system with 1,700+ translation keys
+
+---
 
 ## Featured Projects
 
-### 🌐 Social Distribution - Federated Social Networking Platform
-**Django • Python • JavaScript • HTML5 • CSS3 • PostgreSQL • REST API**
+### 🌐 Social Distribution — Full-Stack Distributed Social Platform
+**Python • Django REST Framework • TypeScript • JavaScript • PostgreSQL • HTML5 • CSS3**
 
-A modern federated social networking platform implementing ActivityPub-like protocol. Features include cross-node communication, real-time notifications, GitHub integration, and a comprehensive REST API with 60+ endpoints.
+Built a distributed social networking platform with federated node-to-node communication and a robust REST API.
 
 🔗 [View Repository](https://github.com/Ahmed-S7/Social-Distribution)
 
-**Key Technologies:**
-- **Backend:** Django 5.2.4, Django REST Framework, Python 3.11
-- **Frontend:** HTML5, CSS3, JavaScript (ES6+), Bootstrap 5.3.0
-- **Database:** PostgreSQL, SQLite3
-- **API:** RESTful architecture with 60+ endpoints
-- **Other:** Gunicorn, WhiteNoise, Pillow, Markdown, Requests
+**Project Highlights:**
+- Implemented and documented **60+ REST API endpoints**
+- Built authentication/authorization and permission-aware backend features
+- Coordinated development in a **6-person team** using Git workflows and milestone tracking
+- Used modular backend design to support maintainability and scalability
 
 ---
 
-### 📱 Dreams Athena - Event Organizer Android App
-**Java • Firebase • Firestore • Firestorage • Android Development**
+### 📱 Dreams Athena — Android Event Organizer App
+**Java • Firebase (Firestore, Storage) • Android Studio • JUnit**
 
-An event organizer app for Android that enables attendee selection via a lottery system. Built with Java, featuring cloud-based data storage with Firestore and Firestorage, and comprehensive unit testing for reliability.
+Co-developed an Android application for event management and attendee selection workflows.
 
 🔗 [View Repository](https://github.com/CMPUT301F24dreams/dreams-Athena)
 
-**Key Technologies:**
-- **Language:** Java
-- **Database:** Google Firestore (NoSQL)
-- **Storage:** Firebase Storage
-- **Testing:** Unit Testing (JUnit)
-- **Platform:** Android
+**Project Highlights:**
+- Implemented cloud-backed features using Firestore and Firebase Storage
+- Developed event and attendee lottery/waitlist functionality
+- Added unit tests to improve reliability and reduce regressions
 
 ---
 
-### 📚 Mock Library Database - CMPUT 291 Project
-**Python • SQL • Database Design • Query Optimization**
+### 📚 Mock Library Database — CMPUT 291 Project
+**Python • SQL**
 
-A mock library database system with full working functionalities. Utilizes Python and PySQL for efficient querying and database management operations.
+Built a relational mock library database with core data and query operations.
 
 🔗 [View Repository](https://github.com/Ahmed-S7/Mock-Library-Database-CMPUT-291-)
 
-**Key Technologies:**
-- **Language:** Python
-- **Database:** SQL (PySQL)
-- **Skills:** Database design, Query optimization, SQL operations
+**Project Highlights:**
+- Designed schema and implemented core database workflows
+- Applied query optimization principles for efficiency and correctness
 
 ---
 
-## 💻 Tech Stack
+## Technical Skills
 
 ### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+Python, JavaScript (ES6+), TypeScript, SQL, Java, C, HTML5, CSS3
 
-### Frameworks & Libraries
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Django REST Framework](https://img.shields.io/badge/DRF-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+### Frameworks & Platforms
+Django, Django REST Framework, Flask, Android SDK, Firebase, Bootstrap  
+(Familiar: React, Angular)
 
 ### Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
-![Firestore](https://img.shields.io/badge/Firestore-FF6F00?style=for-the-badge&logo=firebase&logoColor=white)
+PostgreSQL, MySQL, SQLite, MongoDB, Firestore
 
-### Tools & Technologies
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
-![Gunicorn](https://img.shields.io/badge/Gunicorn-499848?style=for-the-badge&logo=gunicorn&logoColor=white)
+### Testing & Quality
+Selenium, Playwright, PyTest, unittest, JUnit, Mockito, acceptance testing, code review
 
-## Skills & Expertise
+### AI-Assisted Development
+Cursor, Claude, Gemini, ChatGPT, agentic workflows, AI-assisted coding/debugging/documentation
 
-### Backend Development
-- RESTful API design and implementation
-- Database design and optimization (SQL & NoSQL)
-- Server-side logic and architecture
-- Authentication and authorization
-- API integration and testing
-- MongoDB database management
+### Tools & Delivery
+Git, GitHub, Postman, Heroku, Gunicorn, WhiteNoise, VS Code, IntelliJ, Android Studio
 
-### Frontend Development
-- Responsive web design
-- Modern JavaScript (ES6+)
-- CSS animations and transitions
-- AJAX and asynchronous operations
-- UI/UX implementation
+### Engineering Practices
+RESTful API design, authentication/authorization, Agile/Scrum, technical documentation, UML diagrams, stakeholder collaboration, mentorship
 
-### Mobile Development
-- Android app development with Android Studio
-- Cloud-based data storage
-- Mobile UI/UX design
-- Unit testing for mobile apps
-- Android SDK and tools
+---
 
-### DevOps & Deployment
-- Version control with Git/GitHub
-- Cloud deployment (Heroku)
-- Server configuration
-- Static file management
+## Experience Snapshot
 
-### Software Engineering Practices
-- Agile/Scrum methodologies
-- Unit testing and test-driven development
-- Code review and collaboration
-- Documentation and API design
-- Software architecture patterns
+### University of Alberta — Software Developer (Research Assistant)  
+**Jan 2026 – Present | Edmonton, AB (Hybrid)**
+
+- Deliver features for a language-learning platform serving 1,400+ users
+- Improved API performance with pagination, filtering, and caching
+- Upgraded Django and dependencies for performance, security, and maintainability
+- Applied AI-assisted workflows for implementation, review, debugging, and documentation
+
+### University of Alberta — Software Developer  
+**Sep 2025 – Dec 2025 | Edmonton, AB (Hybrid)**
+
+- Built and enhanced a game-based platform across 15+ Django modules
+- Implemented bilingual support with 1,700+ translation keys
+- Designed testing strategy with 500+ tests and 80%+ coverage
+- Produced architecture documentation and supported teammate onboarding
+
+---
 
 ## Currently Learning
 
 - Advanced Django patterns and best practices
-- Machine Learning Principles
-- System design principles
-
-## Socials
-
-I'm always open to collaborating on interesting projects and discussing new ideas. Feel free to reach out!
-
-- 📧 Email: ahmedshittu02@gmail.com
+- Machine Learning principles
+- System design
 
 ---
 
+## Let’s Connect
 
+I’m open to junior software developer opportunities, especially where I can contribute to full-stack product delivery, backend/API engineering, and AI-assisted development workflows.
+
+- 📧 Email: [ahmedshittu02@gmail.com](mailto:ahmedshittu02@gmail.com)
+- 💼 LinkedIn: [Add your LinkedIn URL](https://www.linkedin.com/)
+- 💻 GitHub: [github.com/Ahmed-S7](https://github.com/Ahmed-S7)
