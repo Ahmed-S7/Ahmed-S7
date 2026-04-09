@@ -125,5 +125,5 @@ RESTful API design, authentication/authorization, Agile/Scrum, technical documen
 I’m open to junior software developer opportunities, especially where I can contribute to full-stack product delivery, backend/API engineering, and AI-assisted development workflows.
 
 - 📧 Email: [ahmedshittu02@gmail.com](mailto:ahmedshittu02@gmail.com)
-- 💼 LinkedIn: [Add your LinkedIn URL](https://www.linkedin.com/)
+- 💼 LinkedIn: [Ahmed Shittu](https://www.linkedin.com/)
 - 💻 GitHub: [github.com/Ahmed-S7](https://github.com/Ahmed-S7)
